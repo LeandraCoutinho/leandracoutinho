@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil 👋😄 
 <p> 
-  Sou estudante de Ciência da Computação e sou voluntária no Núcleo de Desenvolvimento de Software, labotatório do IFCE, que visa ensinar e inserir os alunos no mercado de desenvolvimento elaborando projetos voltados tanto pra comunidade acadêmica quanto pra comunidade externa. Atualmente estou dedicando meus estudos em desenvolvimento back-end, focado em C# e .NET
+  Sou estudante de Ciência da Computação e sou voluntária no Núcleo de Desenvolvimento de Software, labotatório do IFCE, que visa ensinar e inserir os alunos no mercado de desenvolvimento por meio de projetos voltados tanto pra comunidade acadêmica quanto pra comunidade externa. Atualmente estou dedicando meus estudos em desenvolvimento back-end, focado em C# e .NET
 </p>
 
 ## Tecnologias 💻
@@ -8,6 +8,9 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
   <img width="44" height="44" src="https://img.icons8.com/color/48/gitlab.png" alt="gitlab"/>
+  <img width="46" height="46" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+  <img width="46" height="46" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
 </div>
 
 ## Contato 📫
