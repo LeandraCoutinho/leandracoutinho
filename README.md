@@ -1,12 +1,13 @@
 # Bem-vindo ao meu perfil 👋😄 
 <p> 
-  Sou estudante de Ciência da Computação e sou voluntária no Núcleo de Desenvolvimento de Software, labotatório do IFCE. Atualmente estou dedicando meus estudos em desenvolvimento back-end, focado em C# e .NET
+  Sou estudante de Ciência da Computação e sou voluntária no Núcleo de Desenvolvimento de Software, labotatório do IFCE, que visa ensinar e inserir os alunos no mercado de desenvolvimento, elaborando projetos voltados tanto pra comunidade acadêmica quanto pra comunidade externa. Atualmente estou dedicando meus estudos em desenvolvimento back-end, focado em C# e .NET
 </p>
 
 ## Tecnologias 💻
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"> 
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
+  <img width="44" height="44" src="https://img.icons8.com/color/48/gitlab.png" alt="gitlab"/>
 </div>
 
 ## Contato 📫
